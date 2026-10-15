@@ -1,0 +1,8 @@
+n,estado,tiempo_microsegundos,operaciones_teoricas
+1,medido,8,0
+10,medido,8,9
+100,medido,109,825
+1000,medido,13294,83250
+10000,medido,1089499,8332500
+100000,timeout,,833325000
+1000000,timeout,,83333250000
